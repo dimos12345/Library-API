@@ -10,7 +10,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: library_api_project
+        working-directory: Library-API/library_api_project
 
     steps:
       - uses: actions/checkout@v4
